@@ -3,8 +3,8 @@
 <h3>I'm a frontend developer and a graphic designer.</h3>
 
 <p>🌱I'm currently learnng TypeScript.</p>
-<p>🔭I'm currently a graphic design intern at QUAD Digital Media..</p>
-<p>📫Feel free to email me at <a href='mailto:sarahaboudalal@gmail.com'>sarahaboudalal@gmail.com</a> for collaboration</p>
+<p>🔭I'm currently a graphic design intern at QUAD Digital Media.</p>
+<p>📫Feel free to email me at <a href='mailto:sarahaboudalal@gmail.com'>sarahaboudalal@gmail.com</a></p>
 <p>Check my portfolio <a href="https://sarahaboudalal.netlify.app/">here</a></p>
 <h3>My Progmmming Skills</h3>
 <p align="left"> 
