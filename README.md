@@ -2,10 +2,11 @@
 
 <h3>I'm a frontend developer and a graphic designer.</h3>
 
-<p>🌱I'm currently learnng TypeScript.</p>
-<p>🔭I'm currently a graphic design intern at QUAD Digital Media.</p>
-<p>📫Feel free to email me at <a href='mailto:sarahaboudalal@gmail.com'>sarahaboudalal@gmail.com</a></p>
-<p>Check my portfolio <a href="https://sarahaboudalal.netlify.app/">here</a></p>
+<p>🌱I'm currently learning TypeScript.</p>
+<p>🔭In the meantime, I'm a graphic design intern at QUAD Digital Media.</p>
+<p>✨I'm always ready for new challenges that can help me become a better programmer.</p>
+<p>📫Feel free to email me at <a href='mailto:sarahaboudalal@gmail.com'>sarahaboudalal@gmail.com</a>.</p>
+<p>You can also check my portfolio <a href="https://sarahaboudalal.netlify.app/">here</a>.</p>
 <h3>My Progmmming Skills</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
