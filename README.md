@@ -3,7 +3,6 @@
 <h3>I'm a frontend developer and a graphic designer.</h3>
 
 <p>🌱I'm currently learning TypeScript.</p>
-<p>🔭In the meantime, I'm a graphic design intern at QUAD Digital Media.</p>
 <p>✨I'm always ready for new challenges that can help me become a better programmer.</p>
 <p>📫Feel free to email me at <a href='mailto:sarahaboudalal@gmail.com'>sarahaboudalal@gmail.com</a>.</p>
 <p>You can also check my portfolio <a href="https://sarahaboudalal.netlify.app/">here</a>.</p>
