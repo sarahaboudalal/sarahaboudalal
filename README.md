@@ -2,7 +2,7 @@
 
 <h3>I'm a frontend developer and a graphic designer.</h3>
 
-<p>🌱I'm currently learning TypeScript & Angular.</p>
+<p>🌱I'm currently working as an Angular Frontend Developer at Nard POS.</p>
 <p>✨I'm always ready for new challenges that can help me become a better programmer.</p>
 <p>📫Feel free to email me at <a href='mailto:sarahaboudalal@gmail.com'>sarahaboudalal@gmail.com</a>.</p>
 <p>You can also check my portfolio <a href="https://sarahaboudalal.netlify.app/">here</a>.</p>
@@ -12,7 +12,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/docs" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/1054797763348541583/1074001115739344906/typescript_original_logo_icon_146317.png" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://angular.io/docs" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/1054797763348541583/1117755419763421204/angular.png?width=312&height=312" alt="angular" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+ <a href="https://primeng.org/" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/1054797763348541583/1117756837492690994/primeng-logo.png?width=671&height=671" alt="primeNG" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
